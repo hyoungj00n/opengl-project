@@ -1,0 +1,18 @@
+﻿  main.cpp
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 _glfwSwapBuffers
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 _glfwSetFramebufferSizeCallback
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 _glfwGetKey
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 _glad_glViewport
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 _glfwTerminate
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 _glfwPollEvents
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 _glfwInit
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 _glfwSetWindowShouldClose
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 _glfwCreateWindow
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 _glad_glClearColor
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 _glad_glClear
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 _glfwWindowHint
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 _glfwMakeContextCurrent
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 _gladLoadGLLoader
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 _glfwGetProcAddress
+main.obj : error LNK2001: 확인할 수 없는 외부 기호 _glfwWindowShouldClose
+C:\Users\82103\source\repos\gpu-project\Release\gpu-project.exe : fatal error LNK1120: 16개의 확인할 수 없는 외부 참조입니다.
